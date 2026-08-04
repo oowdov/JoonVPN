@@ -1,0 +1,9 @@
+[submodule "AndroidLibXrayLite"]
+	path = AndroidLibXrayLite
+	url = https://github.com/2dust/AndroidLibXrayLite.git
+[submodule "hev-socks5-tunnel"]
+	path = hev-socks5-tunnel
+	url = https://github.com/heiher/hev-socks5-tunnel.git
+[submodule "Iran-v2ray-rules"]
+	path = Iran-v2ray-rules
+	url = https://github.com/Chocolate4U/Iran-v2ray-rules.git
